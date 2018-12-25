@@ -1,0 +1,34 @@
+address	name	description	unit	type	len	factor	offset	role	room	poll	wp
+1000	Power	Power  (R/W)	W	uint16be	1	1	0	value		true	false
+1001	Temp1	Temp1 (R)	°C	uint16be	1	0.1	0	value		true	false
+1002	WW1_Temp_max	WW1 Temp max  (R/W)	°C	uint16be	1	1	0	value		true	false
+1003	Status	Status (R)		uint16be	1	1	0	value		true	false
+1004	Power_timout	Power timout  (R/W)	sec	uint16be	1	1	0	value		true	false
+1005	Boost_mode	Boost mode  (R/W)		uint16be	1	1	0	value		true	false
+1006	WW1_min	WW1 min  (R/W)	°C	uint16be	1	0.1	0	value		true	false
+1007	Boost_time_1_start	Boost time 1 start  (R/W)		uint16be	1	1	0	value		true	false
+1008	Boost_time_1_stop	Boost time 1 stop  (R/W)		uint16be	1	1	0	value		true	false
+1009	Hour	Hour  (R/W)		uint16be	1	1	0	value		true	false
+1010	Minute	Minute  (R/W)		uint16be	1	1	0	value		true	false
+1011	Second	Second  (R/W)		uint16be	1	1	0	value		true	false
+1012	Boost_activate	Boost_activate  (R/W)		uint16be	1	1	0	value		true	false
+1013	AC•THOR_Number	AC•THOR_Number  (R/W)		uint16be	1	1	0	value		true	false
+1014	max_Power	max_Power  (R/W)		uint16be	1	1	0	value		true	false
+1015	tempchip	tempchip (R)	°C	uint16be	1	0.1	0	value		true	false
+1016	Control_Firmware_Version	Control_Firmware_Version (R)		uint16be	1	1	0	value		false	false
+1017	PS_firmware_version	PS_firmware_version (R)		uint16be	1	1	0	value		false	false
+1018	AC•THOR_serial_number	AC•THOR serial number (R)		string	1	1	0	value		false	false
+1019	AC•THOR_serial_number	AC•THOR serial number (R)		string	1	1	0	value		false	false
+1020	AC•THOR_serial_number	AC•THOR serial number (R)		string	1	1	0	value		false	false
+1021	AC•THOR_serial_number	AC•THOR serial number (R)		string	1	1	0	value		false	false
+1022	AC•THOR_serial_number	AC•THOR serial number (R)		string	1	1	0	value		false	false
+1023	AC•THOR_serial_number	AC•THOR serial number (R)		string	1	1	0	value		false	false
+1024	AC•THOR_serial_number	AC•THOR serial number (R)		string	1	1	0	value		false	false
+1025	AC•THOR_serial_number	AC•THOR serial number (R)		string	1	1	0	value		false	false
+1026	Boost_time_2_start	Boost time 2 start  (R/W)		uint16be	1	1	0	value		true	false
+1027	Boost_time_2_stop	Boost time 2 stop  (R/W)		uint16be	1	1	0	value		true	false
+1028	Control_Firmware_sub_Version	Control_Firmware_sub_Version (R)		uint16be	1	1	0	value		false	false
+1029	Control_Firmware_Update_Available	Control_Firmware_Update_Available (R)		uint16be	1	1	0	value		false	false
+1030	Temp_2	Temp 2 (R)	°C	uint16be	1	0.1	0	value		true	false
+1069	Meter_Power	Meter Power (R)		uint16be	1	1	0	value		true	false
+1070	Control_type	Control type  (R/W)		uint16be	1	1	0	value		true	false
