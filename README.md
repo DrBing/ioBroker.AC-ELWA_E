@@ -1,6 +1,6 @@
 # Einbindung des MyPV AC ELWA-E in ioBroker über den ioBroker Modbus-Adapter. #
 
-<img src="https://user-images.githubusercontent.com/819464/50426087-bf9e3580-0885-11e9-9701-3474e2729dbe.jpg"></img>
+<img src="https://user-images.githubusercontent.com/819464/50492876-5ef43180-0a1a-11e9-9ce7-85098a81a8e9.jpg"></img>
 
 ## my-PV AC ELWA-E (Ethernet) ##
 
